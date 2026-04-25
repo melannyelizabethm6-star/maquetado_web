@@ -13,11 +13,19 @@ git branch -M main
 git add .
 (añade todos los archivos al repositorio)
 
-gir commit -m "version de subida"
+git commit -m "version de subida"
 (es la version que esta subiendo al repo)
 
 git push -u origin main
 (este emouja los cambios locales a la nube)
-
+git 
 git status 
 (comprueba el estado de la rama)
+
+git remote add origin 
+https://github.com/melannyelizabethm6-star/maquetado_web.git
+(añade la direccion de su repositorio se hace o se ejecuta una unica vez)
+
+xd
+cambio 
+
